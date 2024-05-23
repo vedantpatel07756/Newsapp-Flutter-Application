@@ -7,23 +7,7 @@ NewsApp is a mobile application developed using Flutter framework that provides 
 
 ---
 
-**Features:**
 
-1. **News Categories:** Users can browse news articles based on different categories such as Technology, Sports, Politics, Entertainment, and more.
-
-2. **Search Functionality:** The app offers a search feature that enables users to search for specific news articles based on keywords or topics of interest.
-
-3. **Bookmarking:** Users can bookmark their favorite articles to read later. This feature allows users to save articles and access them even when offline.
-
-4. **Share News:** Users can easily share interesting articles with friends and family via various social media platforms or messaging apps.
-
-5. **Customization:** NewsApp allows users to customize their news feed by selecting preferred topics or sources, ensuring a personalized news browsing experience.
-
-6. **Dark Mode:** The app supports a dark mode feature for comfortable reading at night or in low-light environments.
-
-7. **Push Notifications:** Users can opt-in to receive push notifications for breaking news or important updates, keeping them informed in real-time.
-
----
 
 **Installation:**
 
