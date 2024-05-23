@@ -15,22 +15,20 @@ NewsApp is a Flutter application designed to deliver personalized news content t
 
 To run the NewsApp on your local machine, follow these steps:
 
-<a href="https://github.com/vedantpatel07756/Newsapp-Flutter-Application/blob/main/Newsapp.apk" download>
-  <button style="background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-  border-radius: 12px;">
-    Download APK
-  </button>
-</a>
+
+
+  <h1>Welcome to Newsapp</h1>
+  <p>Stay updated with the latest news!</p>
+  <a href="Newsapp.apk" style=" background-color: #4CAF50;
+      color: white;
+      padding: 15px 30px;
+      font-size: 1.2em;
+      text-decoration: none;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;" class="download-button" download>Download Now</a>
+
+
 
 1. Clone this repository: `git clone [repository-url]`
 2. Navigate to the project directory: `cd newsapp_flutter`
